@@ -63,7 +63,7 @@ A scalable e-commerce platform built using a microservices architecture.
 - **Key Technologies**: Spring Cloud (Eureka, API Gateway), Kafka, Redis, Docker
 - **Focus**: Microservices architecture, service discovery, message queuing, caching.
 
-### [AI Email Reply Generator](https://github.com/sriram-yourusername/email-ai-reply-generator)
+### [AI Email Reply Generator](https://github.com/SRIRAM9487/EmailAssistant)
 
 A Chrome extension that leverages the OpenAI API to generate intelligent email replies.
 
