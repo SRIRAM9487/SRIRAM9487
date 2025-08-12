@@ -1,12 +1,10 @@
 # Hi, I'm Sriram 👋
-A passionate Full Stack Java Developer with expertise in building scalable and secure web applications. I am dedicated to writing clean, efficient code that drives high-performance solutions. With a deep focus on Spring Boot, React, and microservices architecture, I design and implement solutions that optimize both user experience and backend performance. My goal is to deliver applications that are robust, maintainable, and aligned with modern best practices.
+A passionate Backend Java Developer with expertise in building scalable and secure web applications. I am dedicated to writing clean, efficient code that drives high-performance solutions. With a deep focus on Spring Boot, React, and microservices architecture, I design and implement solutions that optimize both user experience and backend performance. My goal is to deliver applications that are robust, maintainable, and aligned with modern best practices.
 ## 🚀 Skills
 
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005A9C?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Backend:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -14,11 +12,6 @@ A passionate Full Stack Java Developer with expertise in building scalable and s
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### Frontend:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
