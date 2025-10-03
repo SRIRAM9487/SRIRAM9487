@@ -9,6 +9,19 @@ A Chrome extension that leverages the OpenAI API to generate intelligent email r
 
 - **Key Technologies**: JavaScript, Node.js, OpenAI API, OAuth2
 - **Focus**: Browser extension development, AI integration, API usage, authentication.
+
+### [WindGrabber](https://github.com/SRIRAM9487/WinGrabber)
+
+A desktop application that revolutionizes file indexing and management on Windows, offering lightning-fast searches and system-friendly performance.
+
+- **Key Technologies**: C++, Qt, SQLite
+- **Focus**: Full disk indexing, multi-threaded hashing, SQLite optimization, intuitive GUI design
+- **Features**:
+  - Indexes files across all drives
+  - Stores metadata (name, path, hashes) in SQLite
+  - Background hashing for seamless updates
+  - Multi-threaded performance with batch DB insertion
+  - User-friendly Qt-based interface
 \
 ## Let's Connect!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriram9487tk@gmail.com)  
